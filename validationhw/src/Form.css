@@ -1,0 +1,23 @@
+label {
+    display: block;
+}
+
+.error {
+    color: red;
+}
+
+fieldset {
+    border: none;
+}
+
+.inputError {
+    border: 1px solid red;
+}
+
+form {
+    background-color: #434343;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
+
